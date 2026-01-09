@@ -1,3 +1,8 @@
+# Bumble_app_review_topic_analysis_with_BERTopic
+
+Using BERTopic to identify common themes in Bumble app reviews
+
+
 - This analysis uses a Natural Language Processing (NLP) technique called topic modelling to understand which topics frequently occur for Bumble app reviews on the Google Play Store
 
 
